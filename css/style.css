@@ -1,19 +1,36 @@
+#shapka {
+    text-align: center;
+}
+.cytata {
+    font-style: italic;
+    font-size: 14pt;
+}
 body{
    margin: 0 27% 0 27%;
       }
 
-BODY {
- font-family: Arial, Verdana, Helvetica, sans-serif;
- font-size: 90%;
- background: white;
- color: black;
+.underline {
+    text-decoration: underline;
+    }
+
+.underline_two {
+    text-decoration: underline;
+    font-style: italic;
 }
 
-H1 {
-  color: #000080;
-  font-size: 200%;
-  font-family: Arial, Verdana, sans-serif;
-  text-align: center;
+p.one {
+    font-style: italic;
+    text-align: center;
+}
+
+p.two {
+    font-style: italic;
+    text-align: right;
+}
+
+.ris1 {
+    float: left;
+    margin: auto 10px auto auto;
 }
 
 .ris2 {
