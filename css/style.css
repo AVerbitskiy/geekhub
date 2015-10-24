@@ -1,0 +1,21 @@
+body{
+   margin: 0 27% 0 27%;
+      }
+
+BODY {
+ font-family: Arial, Verdana, Helvetica, sans-serif;
+ font-size: 90%;
+ background: white;
+ color: black;
+}
+
+H1 {
+  color: #000080;
+  font-size: 200%;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+}
+
+.ris2 {
+text-align: center;
+}
